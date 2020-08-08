@@ -4,7 +4,7 @@
 - 📅 Year of birth: 1997
 - 📍  Location: Russia, Orenburg
 - ⚡ I love cats and dogs, make photos, programming, watch YouTube, play videogames and acoustic guitar :)
-- 💻 Not frontend only, REST API, MySQL backend, etc.
+- 💻 Not frontend only, REST API, MySQL backend (Node.js), etc.
 
 ### Connect with me:
 [<img align="left" alt="lexapetrov | Twitter" width="48px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
@@ -42,6 +42,7 @@
 ### My public projects:
 #### - [subsobs.xyz] - subs/views/videos counter for live streams. Works with YouTube data API. Includes desktop versions for Mac, Linux and Windows.
 #### - [lookatme.top] - taplink.cc/mssg.me free analog. It`s MVP, server now is off, waiting for customers/clients/investors etc.
+#### - digital.orb.ru mobile news app. Here are [web build] and [github repository]
 
 ### Help with money (donation) 💰
 [<img align="left" alt="Tinkoff" width="150px" src="https://buninave.ru/wp-content/uploads/2020/01/Tinkoff.jpg" /> ][Tinkoff bank] 
@@ -65,3 +66,5 @@
 [twitter]: https://twitter.com/petrovlexax
 [instagram]: https://instagram.com/ne.creator
 [telegram]: https://t.me/killing4fun
+[web build]: https://lexapetrov.github.io/rn-digital-news/index.html
+[github repository]: https://github.com/lexapetrov/rn-digital-news
