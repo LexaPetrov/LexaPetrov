@@ -5,6 +5,7 @@
 - 📍  Location: Russia, Orenburg
 - ⚡ I love cats and dogs, make photos, programming, watch YouTube, play videogames and acoustic guitar :)
 - 💻 Not frontend only, REST API, MySQL backend (Node.js), etc.
+- 🕷 Web-scraping (Node.js puppeteer/cheerio, Python beautifulsoup)
 
 ### Connect with me:
 [<img align="left" alt="lexapetrov | Twitter" width="48px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
