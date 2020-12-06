@@ -43,7 +43,8 @@
 ### My public projects:
 #### - [subsobs.xyz] - subs/views/videos counter for live streams. Works with YouTube data API. Includes desktop versions for Mac, Linux and Windows.
 #### - [lookatme.top] - taplink.cc/mssg.me free analog. It`s MVP, server now is off, waiting for customers/clients/investors etc.
-#### - digital.orb.ru mobile news app. Here are [web build] and [github repository]
+#### - [mysocials.ru] - taplink.cc/mssg.me free analog. Reincarnation of previous project. It is working and waiting for customers/clients/investors etc.
+#### - digital.orb.ru mobile news app. Here are [web build] and [github repository] UPD 6 dec 2020: original site was updated, app is not working now and needs to be updated
 
 ### Help with money (donation) 💰
 [<img align="left" alt="Tinkoff" width="150px" src="https://buninave.ru/wp-content/uploads/2020/01/Tinkoff.jpg" /> ][Tinkoff bank] 
@@ -61,6 +62,7 @@
 [Yandex Money]: http://money.yandex.ru/to/41001921826050
 [Tinkoff bank]: https://www.tinkoff.ru/rm/petrov.aleksey68/IXJ5N7740/
 [lookatme.top]: https://lexapetrov.github.io/lookatme.top
+[mysocials.ru]: https://mysocials.ru
 [subsobs.xyz]:https://lexapetrov.github.io/obs-subs
 [mail]: mailto:al1111997@yandex.ru
 [website]: https://lexapetrov.github.io
